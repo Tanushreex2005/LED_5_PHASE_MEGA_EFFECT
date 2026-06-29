@@ -30,8 +30,6 @@ GPIO 2, 4, 5, 13, 15, 18,
 ## 📸 Project Setup
 
 
-https://github.com/user-attachments/assets/98c6ccfb-68d6-4989-9feb-1cca2f9cd8fd
-
 
 ## ⚙️ Setup
 
