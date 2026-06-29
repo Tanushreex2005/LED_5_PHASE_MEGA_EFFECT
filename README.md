@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/1192f7d2-37a3-4587-9909-509e84e8392b
+
 # 💡 ESP32 LED Effects Show
 
 A collection of 5 creative LED lighting effects 
